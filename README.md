@@ -15,7 +15,6 @@
 <p align="center">
   <a href="https://huggingface.co/spaces/adinathjagtap/ai-data-analysis-agent">🚀 Live Demo (V1)</a> •
   <a href="https://youtube.com">📺 Video Demo</a> •
-  <a href="#-quick-start">📖 Documentation</a>
 </p>
 
 *Capstone Project for Google's 5-Day AI Agents Intensive Course*
