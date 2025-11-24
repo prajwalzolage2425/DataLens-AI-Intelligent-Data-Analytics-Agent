@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Gemini](https://img.shields.io/badge/Google-Gemini%20AI-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 An autonomous AI-powered data analytics system that transforms raw datasets (CSV/Excel) into professional visualizations and interactive dashboards. Built with Google's Gemini API, this agent intelligently analyzes data, performs automated cleaning, and generates comprehensive visual insights.
 
