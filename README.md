@@ -577,7 +577,7 @@ Available in this Repository
 
 <br>
 
-Made by **Adinath Somnath Jagtap** & **Prajwal Ashok Zolage** 🚀
+Made by **Adinath Somnath Jagtap** & **Prajwal Ashok Zolage** 
 
 <br>
 
