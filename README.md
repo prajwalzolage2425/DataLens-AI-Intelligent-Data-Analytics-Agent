@@ -379,24 +379,47 @@ exec(dashboard_code)
 
 <div align="center">
 
-**🧠 GEMINI INTEGRATION**
+<table>
+<tr>
+<td width="100%">
 
-Advanced AI analysis for data insights • Intelligent recommendations generation
+<h3 align="center">🧠 Gemini Integration</h3>
 
----
+<p align="center">
+<code>Advanced AI analysis for data insights</code><br>
+<code>Intelligent recommendations generation</code>
+</p>
 
-**💻 AUTOMATED CODE GENERATION**
+</td>
+</tr>
+</table>
 
-AI-generated Python code for cleaning • AI-generated visualization code
+<table>
+<tr>
+<td width="50%">
 
----
+<h3 align="center">💻 Automated Code Generation</h3>
 
-**📋 PREDICTIVE REPORTING**
+<p align="center">
+<code>AI-generated Python code for cleaning</code><br>
+<code>AI-generated visualization code</code>
+</p>
 
-Automated data analysis reports • Business intelligence insights
+</td>
+<td width="50%">
+
+<h3 align="center">📋 Predictive Reporting</h3>
+
+<p align="center">
+<code>Automated data analysis reports</code><br>
+<code>Business intelligence insights</code>
+</p>
+
+</td>
+</tr>
+</table>
 
 </div>
-
 
 <br>
 
@@ -434,11 +457,6 @@ Automated data analysis reports • Business intelligence insights
 <h4>Predictive Analysis Report</h4>
 <p><em>Automated insights and business recommendations</em></p>
 </td>
-<td align="center" width="20%">
-<h3>5️⃣</h3>
-<h4>Data Quality Report</h4>
-<p><em>Comprehensive data health assessment</em></p>
-</td>
 </tr>
 </table>
 
@@ -460,7 +478,7 @@ Automated data analysis reports • Business intelligence insights
 
 <br>
 
-<table>
+<table align="center" >
 <tr>
 <td width="50%" valign="top">
 
@@ -630,9 +648,9 @@ Automated data analysis reports • Business intelligence insights
 
 ### 📂 Repository Organization
 ```
-datalens-ai/
+DataLens-AI-Intelligent-Data-Analytics-Agent/
 │
-└── 📓 DataLens_AI_v2.ipynb
+└── 📊 DataLens AI - Intelligent Data Analytics Agent.ipynb
     (Version 2 - Trained on Google Colab)
 ```
 
@@ -642,9 +660,9 @@ datalens-ai/
 
 ### 🚀 Deployment Status
 
-<table>
+<table align="center" >
 <tr>
-<td align="center" width="60%">
+<td align="center" width="65%">
 
 **🌐 Version 1**
 
@@ -655,7 +673,7 @@ Deployed - Hugging Face
 [![Live Demo](https://img.shields.io/badge/Try-Live_Demo-orange?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/adinathjagtap/ai-data-analysis-agent)
 
 </td>
-<td align="center" width="40%">
+<td align="center" width="35%">
 
 **📦 Version 2**
 
@@ -719,7 +737,7 @@ Available on this Repository
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
 ║   This project was built as a capstone submission for     ║
-║   Google's 5-Day AI Agents Intensive Course              ║
+║   Google's 5-Day AI Agents Intensive Course               ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
